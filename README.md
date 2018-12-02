@@ -1,7 +1,7 @@
 docker-symfony
 ==============
 
-[![Build Status](https://secure.travis-ci.org/eko/docker-symfony.png?branch=master)](http://travis-ci.org/eko/docker-symfony)
+[![Build Status](https://secure.travis-ci.org/aamsellem/docker-symfony.png?branch=master)](http://travis-ci.org/aamsellem/docker-symfony)
 
 
 This is a complete stack for running Symfony 2.8 mix with 1.5 legacy into Docker containers using docker-compose tool.
