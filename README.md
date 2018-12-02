@@ -11,7 +11,7 @@ This is a complete stack for running Symfony 2.8 mix with 1.5 legacy into Docker
 First, clone this repository:
 
 ```bash
-$ git clone https://github.com/eko/docker-symfony.git
+$ git clone https://github.com/aamsellem/docker-symfony.git
 ```
 
 Next, put your Symfony application into `symfony` folder and do not forget to add `symfony.localhost` in your `/etc/hosts` file.
